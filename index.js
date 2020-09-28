@@ -26,7 +26,7 @@ hello，今天是9月28，打着石膏的我只能病假在家。
  background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 50%, rgba(255,255,255,1) 50%, rgba(255,255,255,1) 100%);
 }
  &
- 3.变成弧形
+ 3.变成弧形，加两个小圈
  @
 #bagua::before,
 #bagua::after {
