@@ -19,3 +19,20 @@
   transform: translateX(-50%);
   border: 1px solid #808080;
 }
+@media (max-width: 500px) {
+  #html {
+    height: 50vh;
+    overflow: auto;
+  }
+
+  .wrap {
+    height: 50vh;
+    position: relative;
+  }
+
+  #bagua {
+    position: absolute;
+    top: 0;
+    right: 10px;
+  }
+}
